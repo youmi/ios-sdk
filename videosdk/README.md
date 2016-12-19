@@ -4,7 +4,7 @@
 
 # 快速入门
 
-不知道如何使用有米 iOS SDK的朋友可以移步查看我们为大家准备的快速入门文档：https://github.com/wengxianxun/wxxsdk/blob/master/doc/UMSDK-Doc.pdf
+不知道如何使用有米 iOS SDK的朋友可以移步查看我们为大家准备的快速入门文档：https://github.com/youmi/ios-sdk/tree/master/videosdk/doc/UMSDK-Doc.pdf
 
 
 # 在CocoaPod中安装有米sdk
