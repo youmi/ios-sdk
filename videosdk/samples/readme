@@ -1,0 +1,6 @@
+使用例子
+Sample  演示如何使用全屏视频，非全屏模式视频
+
+cocos2dSample例子已删除cocos2d-x代码包，开发者可直接打开cocos2dSample.xcodeproj看代码，广告初始化以及展示代码在AppController.mm，  调用显示广告代码在HelloWorldScene.mm 中。 
+
+有不明白的地方可以联系客服。

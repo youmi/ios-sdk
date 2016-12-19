@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8A1CFE06F361E187D973924230DFCA3B017B74D9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8A1CFE06F361E187D973924230DFCA3B017B74D9" : 0,
+    "F4E6750D0ADB520264983704B9BE02B934C2C049" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "556F6322-DE77-4C56-BCE7-B284AD77D708",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8A1CFE06F361E187D973924230DFCA3B017B74D9" : "huainanvideosdk\/",
+    "F4E6750D0ADB520264983704B9BE02B934C2C049" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VideoSample",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "samples\/VideoSample\/VideoSample.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.umlife.net:ios-sdk\/huainanvideosdk.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A1CFE06F361E187D973924230DFCA3B017B74D9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wengxianxun\/changeName.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4E6750D0ADB520264983704B9BE02B934C2C049"
+    }
+  ]
+}
